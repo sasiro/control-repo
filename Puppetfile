@@ -7,7 +7,7 @@ mod "puppetlabs/stdlib",      '4.13.1'
 mod "puppetlabs/concat",      '2.2.1'
 mod "puppetlabs/ntp",         :latest
 mod "puppetlabs/apache",      :latest
-
+mod "exaple42/network",		  '3.3.3'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
